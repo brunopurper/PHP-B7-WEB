@@ -1,0 +1,6 @@
+<?php
+
+$lista = {
+    "nome" => "Bruno",
+    
+}
